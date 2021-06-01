@@ -1,7 +1,7 @@
 <img id="Logo" width="300" src="graphics/eforce_AR_logo.png">
 
 # eForce-Augmented-Reality
-Augmented Reality Android App enabling users to see an adapted model of the eForce FEE Prague Formula Formula Student vehicle. Created as part of my Bachelor Thesis and presented at various Formula Student races.
+Augmented Reality Android App enabling users to see an adapted model of the eForce FEE Prague Formula vehicle. Created as part of my Bachelor Thesis and presented at various Formula Student races.
 
 <img id="Demo" width="1000" src="graphics/eForce-AR.gif">
 
